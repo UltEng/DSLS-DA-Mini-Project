@@ -1,1 +1,9 @@
-# DSLS-DA-Mini-Project
+<h1 align="center">
+DSLS-DA-Mini-Project
+<br>
+</h1>
+
+*Ini adalah mini project data analyst pada bootcamp data consultant oleh Data Science Indonesia*
+
+Mini Project ini menggunakan dataset Northwind
+
