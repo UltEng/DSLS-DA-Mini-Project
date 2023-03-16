@@ -7,3 +7,5 @@ DSLS-DA-Mini-Project
 
 Mini Project ini menggunakan dataset Northwind
 
+
+Dengan dataset tersebut dibuat Product Analysis Dashboard dengan menggunakan PowerBI 
